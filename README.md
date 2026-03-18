@@ -1,16 +1,34 @@
-# React + Vite
+# Orbit Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive circular photo animation with hover spotlight and smooth looping motion.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo  
+👉 https://tanevodesign-maker.github.io/Orbit_Gallery/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎥 Preview  
 
-## Expanding the ESLint configuration
+![Preview](./previewimage.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features  
+- Circular orbit-style image animation  
+- Hover spotlight interaction (focus on one image)  
+- Smooth fast looping motion  
+- Layered typography with depth effect  
+
+---
+
+## 🛠 Built With  
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📌 Notes  
+This project focuses on visual interaction design and animation composition rather than complex logic.
